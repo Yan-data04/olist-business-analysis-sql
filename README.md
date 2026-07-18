@@ -13,3 +13,6 @@ This project analyzes the Olist Brazilian E-commerce dataset using SQL to genera
 4. Evaluate delivery performance
 5. Analyse customer reviews
 6. Provide business recommendations
+
+## Entity Relationship Diagram
+![ERD](images/ERD%20diagram.jpg)
